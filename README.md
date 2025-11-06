@@ -14,5 +14,11 @@ None
 
 None
 
-## Created by 
- 
+## Created by
+
+Tyler Hong
+
+
+
+the camera was working but it moved very slow compared to my mouse
+
